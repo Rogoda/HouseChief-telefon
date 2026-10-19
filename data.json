@@ -1,0 +1,101 @@
+{
+  "generated": "2026-10-19T15:27:39.267Z",
+  "plan": {
+    "Danie": "Łosoś z airfryera z sosem cytrynowo-maślanym i młodymi ziemniakami",
+    "Kiedy": "sobota, obiad o 14:00",
+    "Osoby": "5",
+    "Czas": "45 min",
+    "Przepis": "przepisy/losos-z-airfryera.md",
+    "Notatki": "danie przykładowe, żeby zobaczyć stronę na telefonie. Kliknij \"Zaplanuj obiad\", żeby zrobić własne.",
+    "przepis": "przepisy/losos-z-airfryera.md"
+  },
+  "lista": [
+    {
+      "dzial": "Warzywa i owoce",
+      "pozycje": [
+        "2 cytryny",
+        "1 kg młodych ziemniaków",
+        "1 pęczek koperku",
+        "300 g fasolki szparagowej (może być mrożona)",
+        "2 ząbki czosnku"
+      ]
+    },
+    {
+      "dzial": "Nabiał",
+      "pozycje": [
+        "100 g masła (jeśli w domu jest mniej niż pół kostki)"
+      ]
+    },
+    {
+      "dzial": "Ryby i mięso",
+      "pozycje": [
+        "5 filetów łososia bez skóry, ok. 150 g każdy"
+      ]
+    }
+  ],
+  "przepis": {
+    "tytul": "Łosoś z airfryera z sosem cytrynowo-maślanym",
+    "meta": "Porcje: 5 | Czas: 45 min | Sprzęt: airfryer, garnek, mała patelnia",
+    "miseEnPlace": [
+      "5 filetów łososia wyjęte z lodówki 20 min przed startem, osuszone papierem",
+      "1 kg ziemniaków umytych, większe przekrojone na pół",
+      "300 g fasolki, końcówki odcięte",
+      "100 g masła pokrojone w kostkę",
+      "2 cytryny: jedna wyciśnięta do miseczki, druga pokrojona w ćwiartki",
+      "2 ząbki czosnku drobno posiekane",
+      "koperek posiekany",
+      "sól, pieprz, oliwa pod ręką",
+      "duży garnek z osoloną wodą na płycie"
+    ],
+    "osCzasu": [
+      "13:15 start: ziemniaki do wody",
+      "13:30 łosoś do airfryera",
+      "13:40 fasolka do wody, sos na patelni",
+      "13:55 wszystko na talerze",
+      "14:00 obiad"
+    ],
+    "kroki": [
+      {
+        "tekst": "Zagotuj wodę w dużym garnku i wrzuć ziemniaki. Gotuj do miękkości (20 min). Widelec ma wchodzić bez oporu.",
+        "minuty": 20
+      },
+      {
+        "tekst": "Nagrzej airfryer na 200°C (3 min).",
+        "minuty": 3
+      },
+      {
+        "tekst": "Łososia natrzyj oliwą, posól i popieprz z obu stron.",
+        "minuty": null
+      },
+      {
+        "tekst": "Ułóż filety w airfryerze, nie na sobie. Piecz w 200°C (9 min). Gotowy, gdy mięso rozchodzi się widelcem, ale środek jest jeszcze lekko różowy.",
+        "minuty": 9
+      },
+      {
+        "tekst": "W tym czasie wrzuć fasolkę do ziemniaków na ostatnie minuty gotowania (5 min).",
+        "minuty": 5
+      },
+      {
+        "tekst": "Na małej patelni rozpuść masło na małym ogniu, dodaj czosnek, mieszaj, aż zapachnie, nie może zbrązowieć (2 min).",
+        "minuty": 2
+      },
+      {
+        "tekst": "Zdejmij patelnię z ognia, wlej sok z cytryny, dodaj połowę koperku, wymieszaj. To jest sos.",
+        "minuty": null
+      },
+      {
+        "tekst": "Odcedź ziemniaki z fasolką, wrzuć do nich resztę koperku i łyżkę masła.",
+        "minuty": null
+      },
+      {
+        "tekst": "Na talerz: ziemniaki, fasolka, łosoś, sos polany na łososia, ćwiartka cytryny obok. Podawaj od razu.",
+        "minuty": null
+      }
+    ],
+    "ratunek": [
+      "Łosoś suchy w środku: następnym razem 7 min, teraz ratuj podwójną porcją sosu.",
+      "Masło zbrązowiało: to orzechowy sos, nadal dobry, tylko nie dodawaj już czosnku, bo się spali.",
+      "Ziemniaki miękkie za wcześnie: odcedź, zostaw w garnku pod pokrywką, poczekają 15 min."
+    ]
+  }
+}

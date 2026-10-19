@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#14120f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icon.svg" />
+  <title>HouseChief</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <button data-tab="lista" class="active">🛒 Lista</button>
+    <button data-tab="gotuj">👨‍🍳 Gotuj</button>
+    <button data-tab="plan">🗓️ Plan</button>
+  </nav>
+
+  <main>
+    <section id="tab-lista" class="tab active">
+      <div id="lista"></div>
+      <p class="hint" id="lista-hint"></p>
+    </section>
+
+    <section id="tab-gotuj" class="tab">
+      <div id="gotuj"></div>
+    </section>
+
+    <section id="tab-plan" class="tab">
+      <div id="plan"></div>
+      <p class="hint" id="meta"></p>
+      <button id="refresh" class="small">Odśwież dane</button>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

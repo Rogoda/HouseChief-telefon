@@ -160,7 +160,7 @@ function renderGotuj() {
 function renderPlan() {
   const root = $('#plan');
   const p = data.plan || {};
-  const rows = Object.entries(p).filter(([k, v]) => v && k !== 'przepis');
+  const rows = Object.entries(p).filter(([k, v]) => v && k.toLowerCase() !== 'przepis');
   root.innerHTML = rows.length
     ? `<div class="plan-card">${rows.map(([k, v]) => `<div class="kv"><span class="k">${esc(k)}</span><span>${esc(v)}</span></div>`).join('')}</div>`
     : '<p class="empty">Brak planu.</p>';
